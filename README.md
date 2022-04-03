@@ -113,10 +113,3 @@ Alone we can do so little; together we can do so much.
   <br>
 </p>
 <hr>
-
-@happysmart
-
-
-
-
-oswellgrundmeier42@gmail.com
