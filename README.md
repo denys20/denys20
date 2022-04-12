@@ -158,7 +158,7 @@ Enthusiastic Web Developer who loves to create effective websites and work with 
 <hr>
 <br>
 <div>
-<img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="50%" />
+
 ⚡A clean responsive code that will be well displayed in any browser and adapted to any device of any resolution, be it a phone or a tablet, or a widescreen device.<br>
 ⚡Fast response and good communication skills.<br>
 ⚡well-organized/commented code.<br>
