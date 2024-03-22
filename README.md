@@ -74,8 +74,6 @@
  - Next.js / React.js / Vue.js
  - Source Control
 
-<h3 align="center">⭐⭐⭐⭐⭐ 5-Stars Rating for all of my Projects.⭐⭐⭐⭐⭐</h3><br>
-<a target="blank" href="https://profile-counter.glitch.me/happycodinglover/count.svg"><p align="center">❤ Visitor Counts ❤<br><br> <img src="https://profile-counter.glitch.me/happycodinglover/count.svg" /></a>
 <h2 align="center">👯Let's make "Success" Together!👯</h2><br>
 🤔 The way a page appears and the design of the website that users see and interact with may make your business fall or grow!
 Enthusiastic Web Developer who loves to create effective websites and work with businesses to help them grow.
@@ -104,29 +102,6 @@ Alone we can do so little; together we can do so much.
 <p align="center"><img src="https://raw.githubusercontent.com/KevinPatel04/KevinPatel04/master/cover-thompson.png"></p>
 <hr>
 <br>
-<h2 align="center">🔥 Stats 🔥</h2>
-<p align=center>
-  <div align=center>
-    <a href="https://topsmart.netlify.app" title="Go to Source">
-      <img align="left" width=396 src="https://github-readme-streak-stats.herokuapp.com/?user=topsmart20&theme=react&border=61dafb&hide_border=true" alt="topsmart20" />
-    </a>
-    <a href="https://topsmart.netlify.app" title="Go to Source">
-      <img align="right" width=396 src="https://github-readme-stats.vercel.app/api?username=topsmart20&show_icons=true&theme=react&border_color=61dafb&hide_border=true" />
-    </a>
-  </div>
-  <br><br><br><br><br><br><br><br><br>
-  <div align=center>
-    <a href="https://topsmart.netlify.app">
-      <img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=topsmart20&hide=c%23,powershell,Mathematica,Ruby,Objective-C,Objective-C%2b%2b,Cuda&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true" />
-    </a>
-  <br>
-  <br>
-    <img src="https://github-profile-trophy.vercel.app/?username=topsmart20&theme=monokai"/>
-  </div>
-  
-  ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=topsmart20&bg_color=000000&color=00ffff&line=00ffff&point=ffffff&area=true&hide_border=true) 
-  
-  <br>
-</p>
+
 <hr>
 
